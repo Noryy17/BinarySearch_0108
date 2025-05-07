@@ -48,3 +48,6 @@ void bubbleSortArray()
     } while (pass <= nPanjang - 1);
 }
 
+void display()
+
+  
